@@ -12,7 +12,8 @@
       "@http/*": ["./src/http/*"],
       "@lib/*": ["./src/lib/*"],
       "@env/*": ["./src/env/*"],
-      "@routes/*": ["./src/http/routes/*"]
+      "@routes/*": ["./src/http/routes/*"],
+      "@utils/*": ["./src/utils/*"]
     }
   }
 }
